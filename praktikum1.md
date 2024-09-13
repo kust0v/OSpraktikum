@@ -4,5 +4,3 @@ Esimeses operatsioonisüsteemide praktikumis paigaldasin Virtualboxi tarkvara, s
 
 <img width="959" alt="OS23_lab1b" src="https://github.com/user-attachments/assets/18e4291a-8c19-4b1b-b24e-1abd3d83202a">
 <img width="491" alt="OS23_lab1a" src="https://github.com/user-attachments/assets/af3040f8-f1c3-4259-ba98-959e10c04946">
-
-
