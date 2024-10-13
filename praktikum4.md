@@ -6,7 +6,7 @@ Neljandas praktikumis tegelesin Windowsi seadistamise ja turvalisusega. Kontroll
 4.2 <img width="983" alt="ylesanne4.2" src="https://github.com/user-attachments/assets/2a727f42-709f-4429-93d8-e13be43f95c7">
 4.3 <img width="983" alt="ylesanne4.3" src="https://github.com/user-attachments/assets/12bf3f42-b5b6-4103-98c4-81379d5181cd">
 
-4.4 Administraatori õigustest ei piisa kui tahad kasutada: SeSystemProfilePrivilege Profile system
+4.4 Administraatori õigustest ei piisa näiteks kui tahad kasutada: SeSystemProfilePrivilege Profile system.
 
 4.5 <img width="983" alt="ylesanne4.5" src="https://github.com/user-attachments/assets/40e8824e-f19b-49da-a975-96157fa36527">
 
