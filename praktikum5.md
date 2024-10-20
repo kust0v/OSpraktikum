@@ -18,9 +18,9 @@ Selles praktikumis tegelesin failiõigustega Linuxis. Sain Unixi failiõigustest
 5.7 Kasutajad Peeter, Root ja Opetaja saavad Sticky Bit-õigustega yhiskaust-kataloogist nüüd peeter-kasutaja loodud faile kustutada.
 
 5.8 
-# file: hinded.txt
-# owner: opetaja
-# group: opetaja
+"# file: hinded.txt"
+"# owner: opetaja"
+"# group: opetaja"
 user::rw-
 group::r--
 group:direktor:rw-
