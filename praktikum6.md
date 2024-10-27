@@ -12,4 +12,4 @@ Selles praktikumis tegelesin protsess signaalide, sisendite ja väljunditega. K�
 <img width="983" alt="ylesanne6.3" src="https://github.com/user-attachments/assets/b2e5e399-d682-4f0e-80ec-38cd84bc11e1">
 
 Ülesanne 6.4
-<img width="983" alt="ylesanne6.4" src=>
+<img width="983" alt="ylesanne6.4" src="https://github.com/user-attachments/assets/6b2b88ce-b7eb-4a68-92ef-fd4b52e5e0e4">
