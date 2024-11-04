@@ -6,10 +6,16 @@
 Andmekandjad vajavad lähtestamist, et näiteks süsteemi värskendada. Kui andmekandja on pikka aega kasutusel olnud, võib tekkida erinevaid tarkvara probleeme. Lähtestamine loob puhta algse olukorra, mis võimaldab süsteemil paremini töötada ja samuti ka parandada jõudlust.
 
 Ülesanne 7.2
-GPT kasutamise eelised võrreldes MBR-iga on: suurem salvestusvõime, parem bootimisprotsess, turvalisus, vigade parandus
+GPT kasutamise eelised võrreldes MBR-iga on: suurem salvestusvõime, parem bootimisprotsess, turvalisus, vigade parandus.
 
 Ülesanne 7.3
 https://kodu.ut.ee/~kustov/opsys/hdd.png
 
 Ülesanne 7.4
 <img width="983" alt="ylesanne7.4" src="https://github.com/user-attachments/assets/1cf61f88-e8fe-4546-b609-8b5f37cacb2d">
+
+Ülesanne 7.5
+-o ro määrab haakimiseks ainult read-only, mis keelab andmete muutmist USB-mälupulgal. -t auto lubab süsteemil automaatselt tuvastada failisüsteemi tüübi.
+
+7.6
+Ubuntu asendas auto- parameetri väärtusega ntfs.
