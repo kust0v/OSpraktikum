@@ -3,16 +3,20 @@
 Selles praktikumis tegelesin RAID-i ja andmete varundamisega. RAIDisin nii Windowsit kui ka Ubuntut, tegin ka pilvevarundust Windowsis ja Ubuntus. Lõpuks paigaldasin ka OneDrive endale. Kõige raskem oli see praktikum RAID-i teema, see võttis mul kõige rohkem aega. Kogu praktikumi ajakulu oli umbes 4 tundi. 
 
 Ülesanne 8.1
-<img width="983" alt="ylesanne8.1" src="https://github.com/user-attachments/assets/1cf61f88-e8fe-4546-b609-8b5f37cacb2d">
+<img width="983" alt="ylesanne8.1" src="https://github.com/user-attachments/assets/e545bfed-9e8e-4654-930e-6adb14b786de">
 
-Ülesanne 8.2![Kuvatõmmis 2024-11-11 165502](https://github.com/user-attachments/assets/fe27bc8a-8679-414b-9093-002bca4f356f)
 
-<img width="983" alt="ylesanne8.2" src="https://github.com/user-attachments/assets/1cf61f88-e8fe-4546-b609-8b5f37cacb2d">![Kuvatõmmis 2024-11-11 192812](https://github.com/user-attachments/assets/d4e0a2e2-1830-4d00-99c4-99686ad5555e)
+
+Ülesanne 8.2
+<img width="983" alt="ylesanne8.2" src="https://github.com/user-attachments/assets/f7f803b2-ad49-4e1c-8513-da26b7e2f2e2">
 
 
 Ülesanne 8.3
-<img width="983" alt="ylesanne8.3" src="https://github.com/user-attachments/assets/1cf61f88-e8fe-4546-b609-8b5f37cacb2d">![Kuvatõmmis 2024-11-11 201029](https://github.com/user-attachments/assets/f97f2d4b-9797-4ce0-9486-b3b26daf3a5c)
+<img width="983" alt="ylesanne8.3.1" src="https://github.com/user-attachments/assets/9100c673-87f0-4836-942a-2008b9619b13">
 
+<img width="983" alt="ylesanne8.3.2" src="https://github.com/user-attachments/assets/c8c33631-960f-41d2-87e5-524a5f0fb4d3">
 
 Ülesanne 8.4
-<img width="983" alt="ylesanne8.4" src="https://github.com/user-attachments/assets/1cf61f88-e8fe-4546-b609-8b5f37cacb2d">![Kuvatõmmis 2024-11-11 203509](https://github.com/user-attachments/assets/f9c4b599-56d2-4e97-b577-8c39a42bc143)
+<img width="983" alt="ylesanne8.4" src="https://github.com/user-attachments/assets/e6a04be1-35c5-45f9-8b8b-d3ba7c69bded">
+
+
