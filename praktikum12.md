@@ -3,7 +3,7 @@
 
 
 Ülesanne 3 Skript:
-´´´ !#/bin/sh
+!#/bin/sh
 echo "Sisesta oma nimi:"
 read nimi
 echo "Sisesta oma eriala:"
@@ -14,4 +14,4 @@ read matriklinumber
 echo "Sisestatud andmed:"
 echo "Nimi: $nimi"
 echo "Eriala: $eriala"
-echo "Matriklinumber: $matriklinumber" ´´´
+echo "Matriklinumber: $matriklinumber" 
