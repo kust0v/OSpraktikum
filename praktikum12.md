@@ -1,5 +1,6 @@
 # Praktikum 12 aruanne
 
+Selles praktikumis tegelesin Linuxis skriptimisega. Praktikum ei olnud väga suure mahuga ja pigem võttis vähem aega kui teised. Õppisin selles praktikumis Linuxis skriptimist ja arvan, et see tuleb tulevikus mulle kasuks.
 
 
 Ülesanne 3 Skript:
