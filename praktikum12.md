@@ -56,3 +56,19 @@
 
         echo "9 astmel 5 on: $(astenda 9 5)"
 
+Ülesanne 3 väljund:
+<img width="983" alt="ylesanne12.3" src="https://github.com/user-attachments/assets/d30fd078-08f9-4255-9b9d-35794e379538">
+
+Ülesanne 4 väljund:
+<img width="983" alt="ylesanne12.4" src="https://github.com/user-attachments/assets/622fa8b0-8e91-4da1-8f66-88f1c8dc6c71">
+
+Ülesanne 5 väljund:
+<img width="983" alt="ylesanne12.5" src="https://github.com/user-attachments/assets/b5e193db-9a74-45f0-b448-6c9bcac4e84c">
+
+Ülesanne 6 väljund:
+<img width="983" alt="ylesanne12.6" src="https://github.com/user-attachments/assets/8dfd1492-bba2-4bb1-a70c-14c185ee0574">
+
+Ülesanne 7
+<img width="983" alt="ylesanne12.7.1" src="https://github.com/user-attachments/assets/f6e0b622-ae23-4f9c-8557-27dd4bff83ae">
+<img width="983" alt="ylesanne12.7.2" src="https://github.com/user-attachments/assets/8d69fe78-32b0-4d26-ab33-a26a737a0aae">
+<img width="983" alt="ylesanne12.7.3" src="https://github.com/user-attachments/assets/af3b5d5d-50ab-4405-8f46-7b95a3f25452">
