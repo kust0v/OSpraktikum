@@ -25,4 +25,4 @@
 6. do
 7.     mv "$fail" "${fail%.$laiend1}.$laiend2"
 8.     echo "$fail nimetati ümber laiendiks $laiend2"
-9. done
+9.     done
