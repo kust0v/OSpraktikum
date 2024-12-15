@@ -4,8 +4,8 @@
 
 Ülesanne 3 Skript:
 1.     !#/bin/sh
-echo "Sisesta oma nimi:"
-read nimi
+       echo "Sisesta oma nimi:"
+       read nimi
 echo "Sisesta oma eriala:"
 read eriala
 echo "Sisesta oma matriklinumber:"
