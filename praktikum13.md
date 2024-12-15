@@ -1,6 +1,6 @@
 # Praktikum 13 aruanne
 
-Selles praktikumis tegelesin Windowsis skriptimisega.
+Selles praktikumis tegelesin Windowsis skriptimisega. Oli raskem kui Linuxi oma ja rohkem aeganõudev.
 
 Skripti väljundi fail:
 https://github.com/user-attachments/files/18140400/output.txt
@@ -24,6 +24,7 @@ Skript ise.
        "" | Out-File -FilePath $outputFile -Append
 
        # Võrgu konfiguratsioon
+       # Saab infot võrguadapterite kohta, kus IP on lubatud
        "Võrgu konfiguratsioon:" | Out-File -FilePath $outputFile -Append
        $networkInfo = Get-WmiObject Win32_NetworkAdapterConfiguration - 
        Filter "IPEnabled='True'"
@@ -79,6 +80,7 @@ Skript ise.
        }
 
        # PCI seadmed
+       # Kuvab PCI-siinil olevate seadmete info (nime, tootja, draiveri versioon)
        "PCI-siinil olevad seadmed:" | Out-File -FilePath $outputFile -Append
        $pciDevices = Get-WmiObject Win32_PnPEntity | Where-Object { 
        $_.PNPClass -eq "System" }
@@ -117,5 +119,3 @@ Skript ise.
        # Kuupäev ja kellaaeg
        "Arvuti kuupäev ja kellaaeg:" | Out-File -FilePath $outputFile -Append
        (Get-Date).ToString() | Out-File -FilePath $outputFile -Append
-
-
