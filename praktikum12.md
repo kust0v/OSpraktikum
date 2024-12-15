@@ -3,15 +3,15 @@
 
 
 Ülesanne 3 Skript:
-!#/bin/sh
-echo "Sisesta oma nimi:"
-read nimi
-echo "Sisesta oma eriala:"
-read eriala
-echo "Sisesta oma matriklinumber:"
-read matriklinumber
-
-echo "Sisestatud andmed:"
-echo "Nimi: $nimi"
-echo "Eriala: $eriala"
-echo "Matriklinumber: $matriklinumber" 
+1. !#/bin/sh
+2. echo "Sisesta oma nimi:"
+3. read nimi
+4. echo "Sisesta oma eriala:"
+5. read eriala
+6. echo "Sisesta oma matriklinumber:"
+7. read matriklinumber
+8. 
+9. echo "Sisestatud andmed:"
+10. echo "Nimi: $nimi"
+11. echo "Eriala: $eriala"
+12. echo "Matriklinumber: $matriklinumber" 
